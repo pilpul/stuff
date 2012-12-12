@@ -22,7 +22,6 @@ nano /home/storage/sparkeshare-owncloud-sync-$USER.sh
 ```
 sudo nano /etc/crontab
 ```
-
 add this lines to the end
 ```
 #update owncloud from sparkleshare-git-repository
