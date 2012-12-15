@@ -8,3 +8,4 @@ git fetch origin
 git reset origin/master
 git clean -f
 chown -R www-data:www-data /$PATHTOOWNCLOUDDATA/$USER/files/$PROJECT/
+chown -R storage:storage /home/storage/
